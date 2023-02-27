@@ -1,0 +1,24 @@
+Proje oluşturma: Npx create-react-app ilkproje
+
+Projeyi başlatma: npm start
+
+-------------------
+
+component içinde bir tane parent html etiketi gerekiyor.
+
+çözüm 1 : <div> </div>   çözüm 2: <> </>
+-------------------
+değişkenler return ile fonksiyon ismi arasına yazılır.
+true false durumları ekranda gösterilmez.
+ çözüm : {Live ? <p>Geçti</p> : <p>kaldı</p>}
+
+-------------------
+
+css verme : <div classname="app">
+inline css: Style={(backgroundColor)} 
+- kullanılmadığı için sonraki kelime büyük yazılır.
+-------------------
+-------------------
+
+
+
