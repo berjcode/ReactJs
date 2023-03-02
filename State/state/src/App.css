@@ -1,0 +1,23 @@
+.App {
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+}
+
+
+
+.button{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 100px;
+  height: 50px;
+  background-color: #61dafb;
+  border-radius: 10%;
+  font-size: 20px;
+}
+
+.member{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
