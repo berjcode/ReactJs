@@ -39,7 +39,7 @@ function App() {
       <div className='column'>
       <Course   image={Images1}   title="Ryzen"  description="pc"/>
       </div>
-
+        
     </div>
       </section>
    
