@@ -1,0 +1,48 @@
+/* Login */
+
+.logOut{
+    position: fixed;
+    top:0;
+    right: 0;
+
+    padding: 20px;
+
+}
+
+.signIn{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,50%);
+}
+
+#logout-button {
+  float: right;
+}
+/* Dashboard */
+.ui.grid {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .column {
+    padding-right: 0.5rem !important;
+    padding-left: 0.5rem !important;
+  }
+
+  /* SidebarLeft */
+  .menuSideBar {
+    height: 600px; 
+    overflow-y: scroll; 
+  }
+
+  .itemNavbar{
+    padding: 50px;
+    font-size: 15px;
+    margin: 20px;
+  }
+
+
+
+
+  
